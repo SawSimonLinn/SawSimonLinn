@@ -1,5 +1,5 @@
 
-<h1 align="start">Hi 👋, I'm Saw Simon Linn</h1>
+<h1 align="start">Hi 👋, I'm Saw Simon Linn 👨🏻‍💻</h1>
 <img src="./images/HTML:CSS Developer.png" />
 <h3 align="center">A passionate frontend developer from Los Angeles, CA.</h3>
 
