@@ -1,10 +1,10 @@
 <img src="./images/HTML:CSS Developer.png" />
 
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles, CA.</h3>
-<p align="center">
+<h2 align="center">A passionate frontend developer from Los Angeles, CA.</h2>
+<h3 align="center">
   <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
-</p>
+</h3>
 
 - 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
 
