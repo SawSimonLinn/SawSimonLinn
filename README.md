@@ -1,7 +1,7 @@
 
 <h1 align="start">Hi 👋, I'm Saw Simon Linn 👨🏻‍💻</h1>
 <img src="./images/HTML:CSS Developer.png" />
-<h3 align="center">Hey there! I'm a passionate front end developer based in sunny California. Coding isn't just my job, it's my love and my craft. My ultimate goal? Making my clients happy. I thrive on the satisfaction of delivering projects that exceed expectations, which is why I always strive to finish ahead of schedule. With a commitment to quality and a penchant for perfection, I'm here to bring your web development dreams to life. Ready to see what I can do? Check out my portfolio and let's create something amazing together!</h3>
+<h5 align="center">Hey there! I'm a passionate front end developer based in sunny California. Coding isn't just my job, it's my love and my craft. My ultimate goal? Making my clients happy. I thrive on the satisfaction of delivering projects that exceed expectations, which is why I always strive to finish ahead of schedule. With a commitment to quality and a penchant for perfection, I'm here to bring your web development dreams to life. Ready to see what I can do? Check out my portfolio and let's create something amazing together!</h5>
 
 
 - 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
