@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h2 align="center">A passionate frontend developer from Los Angeles, CA.</h2>
-<h1 align="center">
-  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
-</h1>
+
 
 - 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
 
@@ -23,6 +21,10 @@
 - 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
 - ⚡ Fun fact **I think I am funny and love to try new food.**
+
+- <h1 align="center">
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
