@@ -22,8 +22,8 @@
 
 - ⚡ Fun fact **I think I am funny and love to try new food.**
 
-- <h1 align="center">
-  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
+<h1 align="center">
+  <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
 </h1>
 
 <h3 align="left">Connect with me:</h3>
