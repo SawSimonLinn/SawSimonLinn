@@ -1,8 +1,8 @@
-<img src="./images/HTML:CSS Developer.png" />
 
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h2 align="center">A passionate frontend developer from Los Angeles, CA.</h2>
 
+<img src="./images/HTML:CSS Developer.png" />
 
 - 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
 
