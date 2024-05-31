@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
-- ⚡ Fun fact ** I enjoy creating content and sharing my journey on Instagram and Facebook. **
+- ⚡ Fun fact "I enjoy creating content and sharing my journey on Instagram and Facebook."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
