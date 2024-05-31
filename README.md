@@ -1,4 +1,4 @@
-<img src="./images/Aspring Front-End Engineer.png" />
+<img src="./images/Front-End Engineer.png" />
 
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles, CA.</h3>
