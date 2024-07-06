@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus) **Back End**
 
-- 🌱 I’m currently learning ** Back End: Node.js and Express.js **
+- 🌱 I’m currently learning **Back End: Node.js and Express.js**
 
 - I'm a Software Engineering student at [Triple Ten](https://tripleten.com/software-engineer/)
 
@@ -13,7 +13,7 @@
 
 - 🔭 My JavaScript Project [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
 
-- 🔭 My React.js Project [Around The US](https://github.com/SawSimonLinn/se_project_react)
+- 🔭 My React.js Project [WTWR](https://github.com/SawSimonLinn/se_project_react)
 
 - 📝 I regularly write articles on [Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
