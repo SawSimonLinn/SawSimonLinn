@@ -1,19 +1,23 @@
-<img src="./images/Front-End Engineer.png" />
+<img src="./images/React Engineer.png" />
 
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
+- 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus) **Back End**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning ** Back End: Node.js and Express.js **
 
 - I'm a Software Engineering student at [Triple Ten](https://tripleten.com/software-engineer/)
 
 - 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/)
 
+- 🔭 My JavaScript Project [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
+
+- 🔭 My React.js Project [Around The US](https://github.com/SawSimonLinn/se_project_react)
+
 - 📝 I regularly write articles on [Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
-- 💬 Ask me about **HTML5, CSS3 and Javascript**
+- 💬 Ask me about **HTML5, CSS3, Javascript and React**
 
 - 📫 How to reach me **sawsimonlinn@gmail.com**
 
