@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h3 align="center">A passionate React Engineer from Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus) **Back End**
+- 🔭 I’m currently working on [WTWR](https://github.com/SawSimonLinn/se_project_react) **Back End**
 
 - 🌱 I’m currently learning **Back End: Node.js and Express.js**
 
