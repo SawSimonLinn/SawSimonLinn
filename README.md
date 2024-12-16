@@ -1,11 +1,11 @@
-<img src="./images/React Engineer.png" />
+<img src="./images/Full-Stack Software Engineer.png" />
 
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
-<h3 align="center">A passionate React Engineer from Los Angeles, CA.</h3>
+<h3 align="center">A passionate Full-Stack Software Enginner from Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [WTWR](https://github.com/SawSimonLinn/se_project_react) **Back End**
+- 🔭 I’m currently working on [New Explorer](https://github.com/SawSimonLinn) 
 
-- 🌱 I’m currently learning **Back End: Node.js and Express.js**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - I'm a Software Engineering student at [Triple Ten](https://tripleten.com/software-engineer/)
 
@@ -13,11 +13,11 @@
 
 - 🔭 My JavaScript Project [Around The US](https://github.com/SawSimonLinn/se_project_aroundtheus)
 
-- 🔭 My React.js Project [WTWR](https://github.com/SawSimonLinn/se_project_react)
+- 🔭 My MERN stack Project [WTWR](https://github.com/SawSimonLinn/se_project_react/blob/main/README.md)
 
 - 📝 I regularly write articles on [Here](https://www.linkedin.com/in/saw-simon-linn-1897962a0/)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript and React**
+- 💬 Ask me about **HTML5, CSS3, Javascript, React, Back End: Node.js and Express.js**
 
 - 📫 How to reach me **sawsimonlinn@gmail.com**
 
