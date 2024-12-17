@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- I'm a Software Engineering student at [Triple Ten](https://tripleten.com/software-engineer/)
+- 💻 I'm a Software Engineering student at [Triple Ten](https://tripleten.com/software-engineer/)
 
 - 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/)
 
