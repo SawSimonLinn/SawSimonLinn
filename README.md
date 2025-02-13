@@ -14,11 +14,11 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sawsimonlinn/)
 
-- 💬 Ask me about **Javascript, React, Back End: Node.js and Express.js\*\***
+<!-- - 💬 Ask me about **Javascript, React, Back End: Node.js and Express.js** -->
 
 - 📫 How to reach me **simon@sawsimonlinn.com**
 
-- 📄 Know about my [experiences](https://www.linkedin.com/in/sawsimonlinn/)
+<!-- - 📄 Know about my [experiences](https://www.linkedin.com/in/sawsimonlinn/) -->
 
 - ⚡ Fun fact **"I enjoy creating content and sharing my journey on Instagram and Facebook."**
 
