@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saw Simon Linn</h1>
 <h3 align="center">A passionate Full-Stack Software Enginner from Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [New Explorer](https://github.com/SawSimonLinn) 
+- 🔭 I’m currently working on [New Explorer](https://github.com/SawSimonLinn](https://github.com/SawSimonLinn/se_project_newsexplorer)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
