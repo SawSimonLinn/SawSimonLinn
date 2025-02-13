@@ -41,9 +41,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontest.com/sawsimonlinn/sawsimonlinn/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontest.com/sawsimonlinn/sawsimonlinn/output/github-snake.svg">
-<img src="https://raw.githubusercontest.com/sawsimonlinn/sawsimonlinn/output/github-snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawsimonlinn/sawsimonlinn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sawsimonlinn/sawsimonlinn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sawsimonlinn/sawsimonlinn/output/github-snake.svg" />
 </picture>
 
 ###
