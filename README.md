@@ -1,4 +1,4 @@
-<img src="./images/React Engineer.png" />
+<img src="./images/Full-Stack Software Engineer.png" />
 
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer from Los Angeles, CA.</h3>
