@@ -9,7 +9,7 @@
 
 - 🔭 My JavaScript Project [Around the US](https://github.com/SawSimonLinn/se_project_aroundtheus/tree/main)
 
-- 👨‍💻 All of my projects are available at [[Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/)]
+- 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sawsimonlinn/](https://www.linkedin.com/in/sawsimonlinn/)
 
