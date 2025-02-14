@@ -1,7 +1,6 @@
 <img src="./images/top.png" />
-<h1 align="center">Hello 👋, I'm Simon</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Los Angeles, CA.</h3>
-
+<!-- <h1 align="center">Hello 👋, I'm Simon</h1> -->
+<!-- <h3 align="center">A Passionate Full-Stack Developer from Los Angeles, CA.</h3> -->
 <!-- - 🔭 I’m currently working on [My Portfolio](https://sawsimonlinn.github.io/my_portfolio_project_1/) -->
 
 - 🌱 I’m currently learning **Interview Questions**
@@ -20,7 +19,7 @@
 
 <!-- - 📫 How to reach me **simon@sawsimonlinn.com** -->
 
- - 📄 Know about my [experiences](https://www.linkedin.com/in/sawsimonlinn/) 
+- 📄 Know about my [experiences](https://www.linkedin.com/in/sawsimonlinn/)
 
 - ⚡ Fun fact **"I enjoy creating content and sharing my journey on Instagram and Facebook."**
 
