@@ -12,7 +12,7 @@
 
 - 🔭 My Latest Project [News Explorer](https://github.com/SawSimonLinn/se_project_newsexplorer)
 
-- 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/)
+<!-- - 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/) -->
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sawsimonlinn/)
 
