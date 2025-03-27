@@ -5,11 +5,11 @@
 
 <!-- - 🌱 I’m currently learning **Interview Questions** -->
 
-- 🔭 My Latest Project [News Explorer](https://github.com/SawSimonLinn/se_project_newsexplorer)
+- 🔭 My Favorite Project [Awards Winning Website](https://github.com/SawSimonLinn/jsm_award-winning-website) [DEMO](https://sawsimonlinn.xyz/)
 
 - 🔭 My Full-Stack Project [What to Wear (WTWR)](https://github.com/SawSimonLinn/se_project_react/blob/main/README.md)
 
-- 🔭 My JavaScript Project [Around the US](https://github.com/SawSimonLinn/se_project_aroundtheus)
+- 🔭 My Latest Project [Movie_App](https://github.com/SawSimonLinn/jsm_movie_app) [DEMO](https://simonlinn.com/)
 
 <!-- - 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/) -->
 
