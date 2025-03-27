@@ -7,7 +7,7 @@
 
 - 🔭 My Favorite Project [Awards Winning Website](https://github.com/SawSimonLinn/jsm_award-winning-website) & [DEMO](https://sawsimonlinn.xyz/)
 
-- 🔭 My Full-Stack Project [What to Wear (WTWR)](https://github.com/SawSimonLinn/se_project_react/blob/main/README.md)
+- 🔭 My Full-Stack Project [What to Wear (WTWR)](https://github.com/SawSimonLinn/se_project_react/blob/main/README.md) & [DEMO](https://wtwrapp.jumpingcrab.com/)
 
 - 🔭 My Latest Project [Movie_App](https://github.com/SawSimonLinn/jsm_movie_app) & [DEMO](https://simonlinn.com/)
 
