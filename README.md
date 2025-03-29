@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A Passionate Full-Stack Developer from Los Angeles, CA.</h3> -->
 <!-- - 🔭 I’m currently working on [My Portfolio](https://sawsimonlinn.github.io/my_portfolio_project_1/) -->
 
-<!-- - 🌱 I’m currently learning **Interview Questions** -->
+- 🌱 I’m currently learning **NEXT.js** 
 
 - 🔭 My Favorite Project [Awards Winning Website](https://github.com/SawSimonLinn/jsm_award-winning-website) & [DEMO](https://sawsimonlinn.xyz/)
 
