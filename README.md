@@ -7,7 +7,7 @@
 
 - 🔭 My Favorite Project [Awards Winning Website](https://github.com/SawSimonLinn/jsm_award-winning-website) & [DEMO](https://sawsimonlinn.xyz/)
 
-- 🔭 My Full-Stack Next.js Project [YC Directory)](https://github.com/SawSimonLinn/yc_directory) & [DEMO](https://yc-directory-ten-nu.vercel.app/)
+- 🔭 My Full-Stack Next.js Project [YC Directory](https://github.com/SawSimonLinn/yc_directory) & [DEMO](https://yc-directory-ten-nu.vercel.app/)
 
 - 🔭 My Latest Project [Movie_App](https://github.com/SawSimonLinn/jsm_movie_app) & [DEMO](https://simonlinn.com/)
 
