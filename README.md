@@ -9,6 +9,10 @@
 
 - 🔭 My Latest Project [Movie_App](https://github.com/SawSimonLinn/jsm_movie_app) & [DEMO](https://simonlinn.com/)
 
+- 📄 Know about my [experiences-resume](https://www.sawsimonlinn.com/get-resume)
+  
+- ⚡ Fun fact **"I enjoy creating content and sharing my journey on Instagram and Facebook."**
+  
 <!-- - 👨‍💻 All of my projects are available at [Simon Linn](https://sawsimonlinn.github.io/my_portfolio_project_1/) -->
 
 <!-- - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sawsimonlinn/) -->
@@ -17,9 +21,7 @@
 
 <!-- - 📫 How to reach me **simon@sawsimonlinn.com** -->
 
-- 📄 Know about my [experiences](https://www.linkedin.com/in/sawsimonlinn/)
 
-- ⚡ Fun fact **"I enjoy creating content and sharing my journey on Instagram and Facebook."**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
