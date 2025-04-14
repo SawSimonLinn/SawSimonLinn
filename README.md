@@ -1,5 +1,5 @@
 <img src="./images/top_1.png" />
-<h1 align="center">Hello 👋, I'm [Simon](https://www.sawsimonlinn.com]</h1>
+<h1 align="center">Hello 👋, I'm [Simon](https://www.sawsimonlinn.com)</h1>
 
 - 🌱 I’m currently learning **NEXT.js** 
 
