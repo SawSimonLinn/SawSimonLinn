@@ -1,5 +1,5 @@
 <img src="./images/top_1.png" />
-<h1 align="center">Hello 👋, I'm <a href="https://www.sawsimonlinn.com" target="_blank">Saw Simon Linn<a/></h1>
+<h1 align="center">Hello 👋, I'm Saw Simon Linn</h1>
 
 - 🌱 I’m currently learning **NEXT.js** 
 
@@ -8,6 +8,8 @@
 - 🔭 My Full-Stack Next.js Project [YC Directory](https://github.com/SawSimonLinn/yc_directory) & [DEMO](https://yc-directory-ten-nu.vercel.app/)
 
 - 🔭 My Latest Project [Movie_App](https://github.com/SawSimonLinn/jsm_movie_app) & [DEMO](https://simonlinn.com/)
+
+- 🔭 My Next.js [Portfolio](https://www.sawsimonlinn.com)
 
 - 📄 Know about my [experiences-resume](https://www.sawsimonlinn.com/get-resume)
   
