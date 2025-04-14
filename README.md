@@ -1,5 +1,5 @@
 <img src="./images/top_1.png" />
-<h1 align="center">Hello 👋, I'm <a href="https://www.sawsimonlinn.com"> Simon<a/></h1>
+<h1 align="center">Hello 👋, I'm <a href="https://www.sawsimonlinn.com" target="_blank">Saw Simon Linn<a/></h1>
 
 - 🌱 I’m currently learning **NEXT.js** 
 
