@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NEXT.js** 
 
-- 🔭 My Favorite Project [Awards Winning Website](https://github.com/SawSimonLinn/jsm_award-winning-website) & [DEMO](https://sawsimonlinn.xyz/)
+- 🔭 My Favorite Project [Awards Winning Website](https://github.com/SawSimonLinn/jsm_award-winning-website) & [DEMO](https://zentry.sawsimonlinn.com/)
 
 - 🔭 My Full-Stack Next.js Project [YC Directory](https://github.com/SawSimonLinn/yc_directory) & [DEMO](https://yc-directory-ten-nu.vercel.app/)
 
