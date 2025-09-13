@@ -4,17 +4,17 @@ A passionate software engineering graduate, former graphic designer, and sushi c
 
 ## What I Do
 
-- Build clean, user-focused apps with React, Next.js, and Tailwind
-- Solve real-life problems with fullstack apps (Node.js, Express, MongoDB)
+- Solve real-life problems and build clean, user-focused apps with React, Next.js, and Tailwind
 - Design UI/UX that _feels_ good — thanks to 7+ years in graphic design
-- Edit videos and create content to inspire learners and devs like me
+  <!-- - Solve real-life problems with fullstack apps (Node.js, Express, MongoDB) -->
+  <!-- - Edit videos and create content to inspire learners and devs like me -->
 
 ## My Favourite Projects
 
 - [**Nomis.Life**](https://nomis.life) — Helping junior devs showcase their real project skills
 - [**DevElevate**](https://develevate.pro) — An AI README generator for busy devs
-- [**Franchise Performance Dashboard**](https://biz-boost-five.vercel.app/) — Built for 5000+ sushi franchises
-- [**Student Dashboard**](https://github.com/SawSimonLinn/hopeschoolhub) — A school management app with full CRUD and analytics
+<!-- - [**Franchise Performance Dashboard**](https://biz-boost-five.vercel.app/) — Built for 5000+ sushi franchises
+- [**Student Dashboard**](https://github.com/SawSimonLinn/hopeschoolhub) — A school management app with full CRUD and analytics -->
 <!-- - **CopyBoard** — Organize and copy your snippets fast -->
 
 ## Tech Stack
@@ -48,22 +48,16 @@ A passionate software engineering graduate, former graphic designer, and sushi c
 ## What I Value
 
 - Creating for real-world pain points
-- Lifting up the dev community
 - Supporting my family and building a better future
-- Building meaningful, scalable startups
+  <!-- - Lifting up the dev community -->
+  <!-- - Building meaningful, scalable startups -->
 
 ## Fun Facts
 
-- Started coding during night shifts after a full day of sushi chef work
-- Fled Myanmar due to conflict and rebuilt life in the U.S. from scratch
-- Graduated from TripleTen Software Engineering Bootcamp
-- Used to design event flyers, now building SaaS dashboards
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawsimonlinn&layout=compact&theme=default" height="160" />
-</p>
+- Started coding during **night shifts** after a full day of **sushi chef work**
+- **Fled** Myanmar due to conflict and **rebuilt** life in the U.S. from scratch
+- Used to **design event flyers**, now building **SaaS dashboards**
+<!-- - Graduated from TripleTen Software Engineering Bootcamp -->
 
 > “The ones who _use_ AI won’t replace humans. The ones who know _how_ to use it wisely will.”
 
