@@ -23,7 +23,7 @@ A passionate software engineering graduate, former graphic designer, and sushi c
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -39,6 +39,12 @@ A passionate software engineering graduate, former graphic designer, and sushi c
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+## Currently Building
+
+- **A custom SaaS platform** for 5000+ sushi franchises and 600+ staff, including dashboard analytics, performance tracking, and financial breakdowns
+- **A table-order web system** for a local coffee shop with live orders, table numbers, and direct payments to both owner and developer
+- **My own food-tech startup**, focused on modernizing food business operations and customer experience
+
 ## What I Value
 
 - Creating for real-world pain points
@@ -53,8 +59,16 @@ A passionate software engineering graduate, former graphic designer, and sushi c
 - Graduated from TripleTen Software Engineering Bootcamp
 - Used to design event flyers, now building SaaS dashboards
 
----
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawsimonlinn&layout=compact&theme=default" height="160" />
+</p>
 
 > “The ones who _use_ AI won’t replace humans. The ones who know _how_ to use it wisely will.”
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/sawsimonlinn) or check out my projects above.
+## Let's Connect
+
+Portfolio: [simonlinn.com](https://simonlinn.com)  
+LinkedIn: [linkedin.com/in/sawsimonlinn](https://linkedin.com/in/sawsimonlinn)  
+Email: sawsimonelinn@gmail.com
