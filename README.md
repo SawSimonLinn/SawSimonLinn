@@ -13,7 +13,7 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 - [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) — An AI README generator for busy devs
  <p align="left">
   <a href="https://nomis.life" target="_blank">
-    <img src="https://img.shields.io/badge/-Nomis.Life-8a2be2?style=for-the-badge&labelColor=fff&logo=vercel&logoColor=000" />
+    <img src="https://img.shields.io/badge/-Nomis.Life-8a2be2?style=for-the-badge&labelColor=fff&logo=appwrite&logoColor=000" />
   </a>
   <a href="https://develevate.pro">
     <img src="https://img.shields.io/badge/-DevElevate_AI-00cdac?style=for-the-badge&labelColor=fff&logo=vercel&logoColor=000" />
@@ -22,7 +22,7 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
     <img src="https://img.shields.io/badge/-Pixel_Portfolio-ff3ea5?style=for-the-badge&labelColor=fff&logo=react&logoColor=000" />
   </a>
   <a href="https://biz-boost-five.vercel.app/">
-    <img src="https://img.shields.io/badge/-Franchise_Dashboard-ffd23f?style=for-the-badge&labelColor=fff&logo=appwrite&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Franchise_Dashboard-ffd23f?style=for-the-badge&labelColor=fff&logo=next.js&logoColor=black" />
   </a>
   <a href="https://bluebirdhaus.online">
     <img src="https://img.shields.io/badge/-BlueBird_Haus_Sushi-0065a2?style=for-the-badge&labelColor=fff&logo=firebase&logoColor=000" />
@@ -37,7 +37,7 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
     <img src="https://img.shields.io/badge/-Next.js_Portfolio-74737a?style=for-the-badge&labelColor=fff&logo=next.js&logoColor=000" />
   </a>
   <a href="https://github.com/SawSimonLinn/hopeschoolhub">
-    <img src="https://img.shields.io/badge/-HOPE_School_Dashboard-2ee9ff?style=for-the-badge&labelColor=fff&logo=appwrite&logoColor=000" />
+    <img src="https://img.shields.io/badge/-HOPE_School_Dashboard-2ee9ff?style=for-the-badge&labelColor=fff&logo=tailwindcss&logoColor=000" />
   </a>
   <a href="https://github.com/SawSimonLinn/eco-challenge">
     <img src="https://img.shields.io/badge/-Eco_Challenge_App-2bd45f?style=for-the-badge&labelColor=fff&logo=leaflet&logoColor=000" />
