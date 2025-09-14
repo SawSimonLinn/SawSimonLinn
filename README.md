@@ -1,4 +1,4 @@
-<h1 align="center">Yo! It's me Simon (aka <span style="color:#2ee9ff">Saw Simon Linn</span>)</h1>
+<h1 align="center">Hey! It's me Simon (aka <span style="color:#2ee9ff">Saw Simon Linn</span>)</h1>
 
 A passionate <span style="color:#ff3ea5">software engineering graduate</span>, former graphic designer, and sushi chef turnin’ dreams into <span style="color:#2bd45f">fullstack code</span> — one project at a time.
 
@@ -11,6 +11,52 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 
 - [<strong><span style="color:#2ee9ff">Nomis.Life</span></strong>](https://nomis.life) — Helping junior devs showcase their real project skills
 - [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) — An AI README generator for busy devs
+ <p align="left">
+  <a href="https://nomis.life">
+    <img src="https://img.shields.io/badge/-Nomis.Life-2ee9ff?style=for-the-badge&labelColor=000&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://develevate.pro">
+    <img src="https://img.shields.io/badge/-DevElevate_AI-ff4b4b?style=for-the-badge&labelColor=000&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/SawSimonLinn/pixel-portfolio">
+    <img src="https://img.shields.io/badge/-Pixel_Portfolio-ff3ea5?style=for-the-badge&labelColor=000&logo=react&logoColor=white" />
+  </a>
+  <a href="https://biz-boost-five.vercel.app/">
+    <img src="https://img.shields.io/badge/-Franchise_Dashboard-ffd23f?style=for-the-badge&labelColor=000&logo=appwrite&logoColor=black" />
+  </a>
+  <a href="https://bluebirdhaus.online">
+    <img src="https://img.shields.io/badge/-BlueBird_Haus_Sushi-06B6D4?style=for-the-badge&labelColor=000&logo=firebase&logoColor=white" />
+  </a>
+  <a href="https://github.com/SawSimonLinn/crypto-dash">
+    <img src="https://img.shields.io/badge/-Crypto_Dashboard-8a2be2?style=for-the-badge&labelColor=000&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://codeheavenstudio.com">
+    <img src="https://img.shields.io/badge/-Code_Heaven_Studio-2bd45f?style=for-the-badge&labelColor=000&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://github.com/SawSimonLinn/nextjs-portfolio">
+    <img src="https://img.shields.io/badge/-Next.js_Portfolio-06B6D4?style=for-the-badge&labelColor=000&logo=next.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/SawSimonLinn/hope-school-dashboard">
+    <img src="https://img.shields.io/badge/-HOPE_School_Dashboard-2ee9ff?style=for-the-badge&labelColor=000&logo=appwrite&logoColor=white" />
+  </a>
+  <a href="https://github.com/SawSimonLinn/eco-challenge-app">
+    <img src="https://img.shields.io/badge/-Eco_Challenge_App-2bd45f?style=for-the-badge&labelColor=000&logo=leaflet&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-More_Mini_Projects-grey?style=for-the-badge&labelColor=000&logo=github&logoColor=white" />
+  </a>
+</p>
+
+## 🛠️ Currently Building
+
+- <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff — dashboard analytics, performance tracking, and financial breakdowns
+- <span style="color:#2ee9ff"><strong>A table-order system</strong></span> for a local coffee shop with live orders, table numbers, and dual-payment setup
+- <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> — modernizing food business operations and customer experience
+
+## 💖 What I Value
+
+- <span style="color:#2bd45f">Creating for real-world pain points</span>
+- <span style="color:#ffd23f">Supporting my family</span> and building a better future
 
 ## 🧰 Tech Stack
 
@@ -33,17 +79,6 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-## 🛠️ Currently Building
-
-- <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff — dashboard analytics, performance tracking, and financial breakdowns
-- <span style="color:#2ee9ff"><strong>A table-order system</strong></span> for a local coffee shop with live orders, table numbers, and dual-payment setup
-- <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> — modernizing food business operations and customer experience
-
-## 💖 What I Value
-
-- <span style="color:#2bd45f">Creating for real-world pain points</span>
-- <span style="color:#ffd23f">Supporting my family</span> and building a better future
 
 ## 🎮 Fun Facts
 
