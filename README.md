@@ -12,13 +12,13 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 - [<strong><span style="color:#2ee9ff">Nomis.Life</span></strong>](https://nomis.life) — Helping junior devs showcase their real project skills
 - [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) — An AI README generator for busy devs
  <p align="left">
-  <a href="https://nomis.life">
+  <a href="https://nomis.life" target="_blank">
     <img src="https://img.shields.io/badge/-Nomis.Life-8a2be2?style=for-the-badge&labelColor=fff&logo=vercel&logoColor=000" />
   </a>
   <a href="https://develevate.pro">
     <img src="https://img.shields.io/badge/-DevElevate_AI-00cdac?style=for-the-badge&labelColor=fff&logo=vercel&logoColor=000" />
   </a>
-  <a href="https://github.com/SawSimonLinn/pixel-portfolio">
+  <a href="https://simonlinn.com">
     <img src="https://img.shields.io/badge/-Pixel_Portfolio-ff3ea5?style=for-the-badge&labelColor=fff&logo=react&logoColor=000" />
   </a>
   <a href="https://biz-boost-five.vercel.app/">
@@ -27,19 +27,19 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
   <a href="https://bluebirdhaus.online">
     <img src="https://img.shields.io/badge/-BlueBird_Haus_Sushi-0065a2?style=for-the-badge&labelColor=fff&logo=firebase&logoColor=000" />
   </a>
-  <a href="https://github.com/SawSimonLinn/crypto-dash">
+  <a href="https://crypto-dash-redesign.vercel.app/">
     <img src="https://img.shields.io/badge/-Crypto_Dashboard-000?style=for-the-badge&labelColor=fff&logo=bitcoin&logoColor=black" />
   </a>
   <a href="https://codeheavenstudio.com">
     <img src="https://img.shields.io/badge/-Code_Heaven_Studio-06B6D4?style=for-the-badge&labelColor=fff&logo=netlify&logoColor=000" />
   </a>
-  <a href="https://github.com/SawSimonLinn/nextjs-portfolio">
+  <a href="https://sawsimonlinn.com">
     <img src="https://img.shields.io/badge/-Next.js_Portfolio-74737a?style=for-the-badge&labelColor=fff&logo=next.js&logoColor=000" />
   </a>
-  <a href="https://github.com/SawSimonLinn/hope-school-dashboard">
+  <a href="https://github.com/SawSimonLinn/hopeschoolhub">
     <img src="https://img.shields.io/badge/-HOPE_School_Dashboard-2ee9ff?style=for-the-badge&labelColor=fff&logo=appwrite&logoColor=000" />
   </a>
-  <a href="https://github.com/SawSimonLinn/eco-challenge-app">
+  <a href="https://github.com/SawSimonLinn/eco-challenge">
     <img src="https://img.shields.io/badge/-Eco_Challenge_App-2bd45f?style=for-the-badge&labelColor=fff&logo=leaflet&logoColor=000" />
   </a>
   <a href="https://www.simonlinn.com/projects">
