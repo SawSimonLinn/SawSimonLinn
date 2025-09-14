@@ -1,23 +1,18 @@
-# Yo! It's me Simon (aka Saw Simon Linn)
+<h1 align="center">Yo! It's me Simon (aka <span style="color:#2ee9ff">Saw Simon Linn</span>)</h1>
 
-A passionate software engineering graduate, former graphic designer, and sushi chef turnin’ dreams into fullstack code — one project at a time.
+A passionate <span style="color:#ff3ea5">software engineering graduate</span>, former graphic designer, and sushi chef turnin’ dreams into <span style="color:#2bd45f">fullstack code</span> — one project at a time.
 
-## What I Do
+## 🔧 What I Do
 
-- Solve real-life problems and build clean, user-focused apps with React, Next.js, and Tailwind
-- Design UI/UX that _feels_ good — thanks to 7+ years in graphic design
-  <!-- - Solve real-life problems with fullstack apps (Node.js, Express, MongoDB) -->
-  <!-- - Edit videos and create content to inspire learners and devs like me -->
+- Solve real-life problems and build clean, user-focused apps with <span style="color:#2ee9ff">React</span>, <span style="color:#2ee9ff">Next.js</span>, and <span style="color:#2ee9ff">Tailwind</span>
+- Design UI/UX that <em>feels</em> good — thanks to <span style="color:#ffd23f">7+ years</span> in graphic design
 
-## My Favourite Projects
+## 🚀 My Favourite Projects
 
-- [**Nomis.Life**](https://nomis.life) — Helping junior devs showcase their real project skills
-- [**DevElevate**](https://develevate.pro) — An AI README generator for busy devs
-<!-- - [**Franchise Performance Dashboard**](https://biz-boost-five.vercel.app/) — Built for 5000+ sushi franchises
-- [**Student Dashboard**](https://github.com/SawSimonLinn/hopeschoolhub) — A school management app with full CRUD and analytics -->
-<!-- - **CopyBoard** — Organize and copy your snippets fast -->
+- [<strong><span style="color:#2ee9ff">Nomis.Life</span></strong>](https://nomis.life) — Helping junior devs showcase their real project skills
+- [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) — An AI README generator for busy devs
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -39,30 +34,29 @@ A passionate software engineering graduate, former graphic designer, and sushi c
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## Currently Building
+## 🛠️ Currently Building
 
-- **A custom SaaS platform** for 5000+ sushi franchises and 600+ staff, including dashboard analytics, performance tracking, and financial breakdowns
-- **A table-order web system** for a local coffee shop with live orders, table numbers, and direct payments to both owner and developer
-- **My own food-tech startup**, focused on modernizing food business operations and customer experience
+- <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff — dashboard analytics, performance tracking, and financial breakdowns
+- <span style="color:#2ee9ff"><strong>A table-order system</strong></span> for a local coffee shop with live orders, table numbers, and dual-payment setup
+- <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> — modernizing food business operations and customer experience
 
-## What I Value
+## 💖 What I Value
 
-- Creating for real-world pain points
-- Supporting my family and building a better future
-  <!-- - Lifting up the dev community -->
-  <!-- - Building meaningful, scalable startups -->
+- <span style="color:#2bd45f">Creating for real-world pain points</span>
+- <span style="color:#ffd23f">Supporting my family</span> and building a better future
 
-## Fun Facts
+## 🎮 Fun Facts
 
-- Started coding during **night shifts** after a full day of **sushi chef work**
-- **Fled** Myanmar due to conflict and **rebuilt** life in the U.S. from scratch
-- Used to **design event flyers**, now building **SaaS dashboards**
-<!-- - Graduated from TripleTen Software Engineering Bootcamp -->
+- Started coding during <span style="color:#2bd45f"><strong>night shifts</strong></span> after full days as a sushi chef
+- <span style="color:#ff4b4b"><strong>Fled Myanmar</strong></span> and rebuilt life from scratch in the U.S.
+- Designed event flyers... now building SaaS dashboards 🎯
 
-> “The ones who _use_ AI won’t replace humans. The ones who know _how_ to use it wisely will.”
+> “The ones who <em>use</em> AI won’t replace humans. The ones who know <em>how</em> to use it wisely will.”
 
-## Let's Connect
+---
 
-Portfolio: [simonlinn.com](https://simonlinn.com)  
-LinkedIn: [linkedin.com/in/sawsimonlinn](https://linkedin.com/in/sawsimonlinn)  
-Email: sawsimonelinn@gmail.com
+## 🔗 Let's Connect
+
+- 🌐 Portfolio: [<span style="color:#2ee9ff">simonlinn.com</span>](https://simonlinn.com)
+- 💼 LinkedIn: [<span style="color:#ff3ea5">linkedin.com/in/sawsimonlinn</span>](https://linkedin.com/in/sawsimonlinn)
+- 📧 Email: <span style="color:#ffd23f">sawsimonelinn@gmail.com</span>
