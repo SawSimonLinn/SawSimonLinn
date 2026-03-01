@@ -2,14 +2,14 @@
 
 A passionate <span style="color:#ff3ea5">software engineering graduate</span>, former graphic designer, and sushi chef turnin’ dreams into <span style="color:#2bd45f">fullstack code</span> — one project at a time.
 
-## 🔧 What I Do
+## What I Do
 
 - Solve real-life problems and build clean, user-focused apps with <span style="color:#2ee9ff">React</span>, <span style="color:#2ee9ff">Next.js</span>, and <span style="color:#2ee9ff">Tailwind</span>
 - Design UI/UX that <em>feels</em> good — thanks to <span style="color:#ffd23f">7+ years</span> in graphic design
 
-## 🚀 My Favourite Projects
+## My Favourite Projects
 
-- [<strong><span style="color:#2ee9ff">Nomis.Life</span></strong>](https://nomis.life) — Helping junior devs showcase their real project skills
+- [<strong><span style="color:#2ee9ff">Nomis.Life</span></strong>](https://nomis.life) - Helping junior devs showcase their real project skills
 - [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) — An AI README generator for busy devs
  <p align="left">
   <a href="https://nomis.life" target="_blank">
@@ -47,18 +47,18 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
   </a>
 </p>
 
-## 🛠️ Currently Building
+## Currently Building
 
 - <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff — dashboard analytics, performance tracking, and financial breakdowns
 - <span style="color:#2ee9ff"><strong>A table-order system</strong></span> for a local coffee shop with live orders, table numbers, and dual-payment setup
 - <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> — modernizing food business operations and customer experience
 
-## 💖 What I Value
+## What I Value
 
 - <span style="color:#2bd45f">Creating for real-world pain points</span>
 - <span style="color:#ffd23f">Supporting my family</span> and building a better future
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -80,7 +80,7 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## 🎮 Fun Facts
+## Fun Facts
 
 - Started coding during <span style="color:#2bd45f"><strong>night shifts</strong></span> after full days as a sushi chef
 - <span style="color:#ff4b4b"><strong>Fled Myanmar</strong></span> and rebuilt life from scratch in the U.S.
@@ -90,8 +90,8 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
-- 🌐 Portfolio: [<span style="color:#2ee9ff">simonlinn.com</span>](https://simonlinn.com)
-- 💼 LinkedIn: [<span style="color:#ff3ea5">linkedin.com/in/sawsimonlinn</span>](https://linkedin.com/in/sawsimonlinn)
-- 📧 Email: <span style="color:#ffd23f">sawsimonelinn@gmail.com</span>
+- Portfolio: [<span style="color:#2ee9ff">simonlinn.com</span>](https://simonlinn.com)
+- LinkedIn: [<span style="color:#ff3ea5">linkedin.com/in/sawsimonlinn</span>](https://linkedin.com/in/sawsimonlinn)
+- Email: <span style="color:#ffd23f">sawsimonelinn@gmail.com</span>
