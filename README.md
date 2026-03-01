@@ -49,9 +49,9 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 
 ## Currently Building
 
-- <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff - dashboard analytics, performance tracking, and financial breakdowns
-- <span style="color:#2ee9ff"><strong>A table-order system</strong></span> for a local coffee shop with live orders, table numbers, and dual-payment setup
-- <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> - modernizing food business operations and customer experience
+- <span style="color:#ff3ea5"><strong>Software Engineer at Koios Marketplace</strong></span> - building and maintaining scalable marketplace systems, contributing to core features and platform infrastructure
+- <span style="color:#2ee9ff"><strong>A freelance software agency (co-founded with Mia)</strong></span> - delivering custom software solutions, full-stack development, and end-to-end product builds for clients
+- <span style="color:#ffd23f"><strong>An AI startup (unpaid internship)</strong></span> - working on AI-driven products, gaining hands-on experience in applied machine learning and startup execution
 
 ## What I Value
 
@@ -84,7 +84,7 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 
 - Started coding during <span style="color:#2bd45f"><strong>night shifts</strong></span> after full days as a sushi chef
 - <span style="color:#ff4b4b"><strong>Fled Myanmar</strong></span> and rebuilt life from scratch in the U.S.
-- Designed event flyers... now building SaaS dashboards 🎯
+- Designed event flyers... now building SaaS dashboards
 
 > “The ones who <em>use</em> AI won’t replace humans. The ones who know <em>how</em> to use it wisely will.”
 
@@ -92,6 +92,6 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 
 ## Let's Connect
 
-- Portfolio: [<span style="color:#2ee9ff">simonlinn.com</span>](https://simonlinn.com)
+- Portfolio: [<span style="color:#2ee9ff">simonlinn.dev</span>](https://simonlinn.dev)
 - LinkedIn: [<span style="color:#ff3ea5">linkedin.com/in/sawsimonlinn</span>](https://linkedin.com/in/sawsimonlinn)
 - Email: <span style="color:#ffd23f">sawsimonelinn@gmail.com</span>
