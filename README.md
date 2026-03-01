@@ -1,16 +1,16 @@
 <h1 align="center">Hey! It's me Simon (aka <span style="color:#2ee9ff">Saw Simon Linn</span>)</h1>
 
-A passionate <span style="color:#ff3ea5">software engineering graduate</span>, former graphic designer, and sushi chef turnin’ dreams into <span style="color:#2bd45f">fullstack code</span> — one project at a time.
+A passionate <span style="color:#ff3ea5">software engineering graduate</span>, former graphic designer, and sushi chef turnin’ dreams into <span style="color:#2bd45f">fullstack code</span> - one project at a time.
 
 ## What I Do
 
 - Solve real-life problems and build clean, user-focused apps with <span style="color:#2ee9ff">React</span>, <span style="color:#2ee9ff">Next.js</span>, and <span style="color:#2ee9ff">Tailwind</span>
-- Design UI/UX that <em>feels</em> good — thanks to <span style="color:#ffd23f">7+ years</span> in graphic design
+- Design UI/UX that <em>feels</em> good - thanks to <span style="color:#ffd23f">7+ years</span> in graphic design
 
 ## My Favourite Projects
 
 - [<strong><span style="color:#2ee9ff">Nomis.Life</span></strong>](https://nomis.life) - Helping junior devs showcase their real project skills
-- [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) — An AI README generator for busy devs
+- [<strong><span style="color:#ff3ea5">DevElevate</span></strong>](https://develevate.pro) - An AI README generator for busy devs
  <p align="left">
   <a href="https://nomis.life" target="_blank">
     <img src="https://img.shields.io/badge/-Nomis.Life-8a2be2?style=for-the-badge&labelColor=fff&logo=appwrite&logoColor=000" />
@@ -49,9 +49,9 @@ A passionate <span style="color:#ff3ea5">software engineering graduate</span>, f
 
 ## Currently Building
 
-- <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff — dashboard analytics, performance tracking, and financial breakdowns
+- <span style="color:#ff3ea5"><strong>A custom SaaS platform</strong></span> for 5000+ sushi franchises and 600+ staff - dashboard analytics, performance tracking, and financial breakdowns
 - <span style="color:#2ee9ff"><strong>A table-order system</strong></span> for a local coffee shop with live orders, table numbers, and dual-payment setup
-- <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> — modernizing food business operations and customer experience
+- <span style="color:#ffd23f"><strong>A food-tech startup</strong></span> - modernizing food business operations and customer experience
 
 ## What I Value
 
